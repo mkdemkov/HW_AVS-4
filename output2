@@ -1,0 +1,36 @@
+Shop is opened!
+
+Seller #1 has came to his workplace
+Seller #2 has came to his workplace
+Seller #3 has came to his workplace
+
+Customer #1 is now making a shopping list
+Customer #2 is now making a shopping list
+
+Customer #2 has came to the shop
+Customer #2 has came to the seller #2
+Seller #2 is now serving the customer #2
+Seller #2 has finished serving the customer #2
+Customer #2 has came to the seller #3
+Seller #3 is now serving the customer #2
+Seller #3 has finished serving the customer #2
+Customer #2 has left the shop
+Customer #1 has came to the shop
+Customer #1 has came to the seller #3
+Seller #3 is now serving the customer #1
+Seller #3 has finished serving the customer #1
+Customer #1 has came to the seller #2
+Seller #2 is now serving the customer #1
+Seller #2 has finished serving the customer #1
+Customer #1 has came to the seller #1
+Seller #1 is now serving the customer #1
+Seller #1 has finished serving the customer #1
+Customer #1 has left the shop
+
+Seller #2 is closing his shop
+
+Seller #3 is closing his shop
+
+Seller #1 is closing his shop
+
+Shop is closed!
